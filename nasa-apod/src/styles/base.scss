@@ -1,0 +1,11 @@
+// @import 'utils'; 자동으로 추가되게 설정해둠
+
+body {
+  margin: 0;
+  background: $oc-gray-8;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
